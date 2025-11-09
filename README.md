@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AWS-Expert-orange?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudera-Administrator-blue?logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-Ecosystem-yellow?logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-Developer-red?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-Engineer-red?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-Engineer-black?logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Scripting-green?logo=python&logoColor=white" />
 </p>
